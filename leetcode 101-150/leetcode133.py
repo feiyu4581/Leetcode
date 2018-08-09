@@ -26,9 +26,6 @@ class Solution:
                     queue.append(neighbor)
 
         return nodes[node]
-        
-        print ('---------', nodes[node])
-
 
 
 x = Solution()
